@@ -1,5 +1,5 @@
 {
-    "name": "plexi/sortable-grid",
+    "name": "bueno-networks/sortable-grid",
     "description": "Grade de dados com recursos de pesquisa, ordenação e seletor de registros para Laravel e Blade templates",
     "keywords": ["laravel","cruds","grids","data-tables","blade","helpers"],
     "license": "MIT",
